@@ -5,7 +5,7 @@
 }
 
 body{
-  font-family: 'Lato', sans-serif;  
+  font-family: 'Lato', sans-serif;
 }
 
 .row{
@@ -20,7 +20,7 @@ body{
 .container{
  position: relative;
  top:60px;
- margin: 15px; 
+ margin: 15px;
 }
 
 .item{
@@ -42,7 +42,7 @@ body{
   position: absolute;
   top:0;
   right: 0px;
-  background: green; 
+  background: green;
   padding: 6px 90px;
   border-left: 2px solid #000;
   border-bottom: 2px solid #000;
@@ -50,7 +50,7 @@ body{
 
 #title-one {
   background-color: #D59898;
-} 
+}
 
 #title-two{
   background-color: #C14543;
@@ -64,7 +64,7 @@ body{
 /*------ Desktop ------*/
 @media (min-width: 992px){
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
-    float: left;  
+    float: left;
   }
   .col-lg-1 {
     width: 8.33%;
@@ -126,3 +126,4 @@ body{
     float: left;
   }
 }
+
